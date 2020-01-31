@@ -1,0 +1,61 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "extends": "airbnb",
+  "globals": {
+    "G": false,
+    "Mobx": false,
+    "__DEV__": false,
+    "__TARGET__": false,
+    "__BASENAME__": false,
+    "__ROUTER__": false,
+    "__PROJECT__": false,
+    "ReactDOM": false,
+    "PropTypes": false,
+    "MobxReact": false,
+    "ReactRouterDOM": false,
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    },
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "plugins": ["react"],
+  "rules": {
+    "quotes": [1, "single"],
+    "array-callback-return": 0,
+    "class-methods-use-this": 0,
+    "react/jsx-filename-extension": [1, { "extensions": [".js"] }],
+    "react/require-default-props": 0,
+    "react/forbid-prop-types": [0],
+    "jsx-a11y/no-static-element-interactions": [0],
+    "jsx-a11y/click-events-have-key-events": [0],
+    "jsx-a11y/label-has-for": [
+      2,
+      {
+        "required": {
+          "every": ["id"]
+        }
+      }
+    ],
+    "no-return-assign": 0,
+    "no-param-reassign": 0,
+    "import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
+    "import/no-unresolved": [2, { "ignore": ["^@/"] }],
+    "import/extensions": 0,
+    "react/sort-comp": 0,
+    "iterators/generators": 0,
+    "comma-dangle": 0,
+    "no-restricted-syntax": 0,
+    "import/prefer-default-export": 0
+  }
+}

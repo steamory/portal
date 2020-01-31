@@ -1,0 +1,8 @@
+{
+  "@inrupt/generator-solid-react": {
+    "promptValues": {
+      "appName": "portal",
+      "appVersion": "0.1.0"
+    }
+  }
+}
