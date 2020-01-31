@@ -67,12 +67,6 @@ $ npm install
 $ npm start
 ```
 
-### Lint
-
-```shell
-$ npm lint:staged
-```
-
 ### Production
 
 ```shell
