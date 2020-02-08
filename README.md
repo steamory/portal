@@ -52,7 +52,7 @@ Hope our efforts will allow more ordinary people to use SoLiD !
 ## Built With
 
 1. React.js - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-1. Mobx - Simple, scalable state management.
+1. Mobx or React Hooks and Context - Simple, scalable state management.
 1. Ant Design - A UI Design Language and React UI library.
 1. styled-components - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress
 1. solid-react-components - Reusable components for Solid React applications
