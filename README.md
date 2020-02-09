@@ -49,6 +49,8 @@ Hope our efforts will allow more ordinary people to use SoLiD !
 
 ![info](https://raw.githubusercontent.com/steamory/portal/master/static/SoLiD%20Portal%20Info.png)
 
+![info](https://raw.githubusercontent.com/steamory/portal/master/static/SoLiD%20Login%20Page.png)
+
 ## Built With
 
 1. React.js - A declarative, efficient, and flexible JavaScript library for building user interfaces.
