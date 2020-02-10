@@ -1,6 +1,9 @@
 # Portal
 
 <img src="https://raw.githubusercontent.com/steamory/portal/master/static/portal_logo.png" width="300" />
+<p style="text-align:center:font-size:11px;font-color:#eee">
+A spectre is haunting Earth — the spectre of SoLiD.
+</p>
 
 Portal is a data browser that allows you to explore your personal data in SoLiD Pod.
 
