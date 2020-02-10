@@ -1,10 +1,8 @@
 # Portal
 
-![info](https://raw.githubusercontent.com/steamory/portal/master/static/portal_logo.png)
+<img src="https://raw.githubusercontent.com/steamory/portal/master/static/portal_logo.png" width="250" />
 
 Portal is a data browser that allows you to explore your personal data in SoLiD Pod.
-
-![Inrupt Portotype](https://inrupt.com/sites/default/files/2018-10/Things%2BThomas_v2.png)
 
 Portal Project Roadmap: [portal-roadmap](https://github.com/steamory/portal-roadmap).
 
