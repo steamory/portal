@@ -1,6 +1,6 @@
 # Portal
 
-<img src="https://raw.githubusercontent.com/steamory/portal/master/static/portal_logo.png" width="250" />
+<img src="https://raw.githubusercontent.com/steamory/portal/master/static/portal_logo.png" width="300" />
 
 Portal is a data browser that allows you to explore your personal data in SoLiD Pod.
 
