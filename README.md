@@ -9,6 +9,8 @@ Portal is a data browser that allows you to explore your personal data in SoLiD 
 
 Portal Project Roadmap: [portal-roadmap](https://github.com/steamory/portal-roadmap).
 
+UI Prototype: [Prototype](https://www.figma.com/proto/K1m6qMGoIjZHaTGfabtFkS/Login?node-id=6%3A209&viewport=229%2C222%2C0.1298469454050064&scaling=min-zoom).
+
 ## What is SoLiD
 
 SoLiD(Social Linked Data) is an exciting new project led by Prof. Tim Berners-Lee, inventor of the World Wide Web, taking place at MIT. The project aims to radically change the way Web applications work today, resulting in true data ownership as well as improved privacy.
